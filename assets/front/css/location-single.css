@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.location-single {
+
+}
+
+
+.location-single .preview-notice{
+  background: #ffefbf;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-left: 3px solid #fdc51c;
+}
+
+.location-single .location-cover{
+  max-height: 220px;
+  overflow: hidden;
+}
+
+.location-single .location-cover img{
+  box-shadow: none;
+  border-radius: 0;
+  margin-bottom: 15px;
+
+}
+
+
+.location-single .location-intro{
+  padding: 10px;
+  background: #efefef;
+}
+
+.location-single .logo {
+  display: inline-block;
+  height: 80px;
+  margin-right: 20px;
+  overflow: hidden;
+  vertical-align: top;
+  width: 80px;
+}
+
+.location-single .logo img {
+  width: 100%;
+}
+
+.location-single .name {
+  display: inline-block;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+.location-single .map-container {
+  height: 300px;
+  overflow: hidden;
+  width: 100%;
+}
+.location-single #map {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.location-single .country {
+  display: block;
+  font-size: 13px;
+  font-weight: normal;
+}
+
+.location-single .description {
+  font-size: 13px;
+  line-height: normal;
+  margin: 20px 0;
+}
+
+.location-single .job-list-header{
+
+}
+
+
+
+.location-single .location-header .description{}
+
+.location-single .location-header .job-list-header{}
+
+
+.location-single .related-location-container {}
+
+
+.location-single .related-location-container .single-location {
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+  width: 30%;
+}
+
+.location-single .related-location-container .single-location img{}
+
+.location-single .related-location-container .single-location a{
+	text-decoration:none;
+	color:#0076D7;
+	outline:none;
+}
+
